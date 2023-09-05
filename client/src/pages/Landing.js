@@ -15,9 +15,9 @@ const Landing = () => {
             job <span>tracking</span> app
           </h1>
           <p>
-            Crucifix narwhal street art asymmetrical, humblebrag tote bag pop-up
-            fixie raclette taxidermy craft beer. Brunch bitters synth, VHS
-            crucifix heirloom meggings bicycle rights.
+            Don&rsquo;t let applying for jobs become your full-time job. Take
+            control of your career hunt, and put this application to work for
+            you. Keep track of all the job positions you have applied to.
           </p>
           <Link to='/register' className='btn btn-hero'>
             Login/Register
